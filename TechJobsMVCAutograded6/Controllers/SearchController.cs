@@ -44,7 +44,7 @@ public class SearchController : Controller
         }
         ViewBag.columns = ListController.ColumnChoices;
 
-        return View("Results");
+        return View("Index");
     }
 
     // TODO #3 - Create an action method to process a search request and render the updated search views.
