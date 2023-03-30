@@ -15,7 +15,6 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Views\List\" />
-    <Folder Include="Views\Search\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Data\job_data.csv">
